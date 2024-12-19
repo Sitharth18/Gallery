@@ -37,6 +37,8 @@ Publish the website in the given URL.
             padding: 0;
             text-align: center;
             background-color: #f4f4f4;
+             background-image: url("background.jpeg");
+            background-size:cover;
         }
 
         h1 {
@@ -136,6 +138,11 @@ Publish the website in the given URL.
 ```
 
 # OUTPUT:
-![alt text](<Screenshot 2024-12-19 082500.png>)
+![alt text](<Screenshot 2024-12-19 084531.png>)
+![alt text](<Screenshot 2024-12-19 084553.png>)
+![alt text](<Screenshot 2024-12-19 084656.png>)
+![alt text](<Screenshot 2024-12-19 084708.png>)
+![alt text](<Screenshot 2024-12-19 084719.png>)
+![alt text](<Screenshot 2024-12-19 084730.png>)
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
